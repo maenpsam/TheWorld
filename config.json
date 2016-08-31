@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "testi@testi.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localDb)\\MSSQLLocalDb;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey": "DONTEVERPUTKEYSINSOURCECONTROL"
+  }
+}
